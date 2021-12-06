@@ -1,0 +1,16 @@
+body {
+    background-color: #fddcd4;
+}
+p {
+    color: black;
+    font-size: 20px;
+    font-style:italic;
+}
+p1 {
+    color: darkblue;
+    font-size: 30px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
